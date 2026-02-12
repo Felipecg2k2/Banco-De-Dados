@@ -20,28 +20,6 @@ Este repositório é dedicado exclusivamente a banco de dados, sem misturar com 
 
 ---
 
-## 🗄️ Conteúdos Abordados
-
-Atualmente, o repositório cobre:
-
-- O que é banco de dados
-- Para que serve
-- Conceitos básicos
-- Estrutura de tabelas
-- Modelagem simples
-- Introdução ao SQL
-- Comandos fundamentais:
-  - `CREATE`
-  - `INSERT`
-  - `SELECT`
-  - `UPDATE`
-  - `DELETE`
-- Exercícios básicos
-
-O conteúdo será expandido gradualmente conforme o avanço nos estudos.
-
----
-
 ## 📚 Estrutura
 
 Toda a organização do repositório (pastas e evolução dos conteúdos) segue uma divisão por tópicos.
