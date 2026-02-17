@@ -43,4 +43,3 @@ Felipe Cunha Guedes
 🎓 Estudante de programação e desenvolvimento de sistemas  
 📖 Construindo base sólida para disciplinas acadêmicas e projetos futuros
 ---
-
